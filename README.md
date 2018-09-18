@@ -1,1 +1,1 @@
-JS-Concepts-Lesson-4-Hands-On
+For your Lesson 4 Hands-On, you will be practicing your new skills working with classes.
